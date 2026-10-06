@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.DS_Store
+*.zip
+*.png
+data/LIB_mock_data_scientist_review.xlsx
